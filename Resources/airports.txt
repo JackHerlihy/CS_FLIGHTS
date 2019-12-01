@@ -1,0 +1,6 @@
+NOC,Knock,Ireland
+KIR,Kerry,Ireland
+BFS,Belfast International,Ireland
+ALC,Alicante,Spain
+SXF,Schönefeld,Germany
+LTN, London Luton, England

@@ -1,0 +1,2 @@
+FL101,29-Nov-2019,13:00,100,0,Past Flight
+FL101,03-Dec-2019,13:00,80,20,Scheduled
